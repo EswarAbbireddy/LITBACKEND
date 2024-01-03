@@ -1,2 +1,1 @@
-# LITBACKEND
-Register and Login
+# Registration-and-Login-Application
